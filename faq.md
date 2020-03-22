@@ -3,33 +3,27 @@ layout: page
 title: Często zadawane pytania
 ---
 
-**1. Czy przepisuje Pan oceny z wykładu na laborkę tudzież odwrotnie?**
+**1. Czy trzeba ponownie potwierdzać zaproszenie?**
 
-Nie.
+Zakładamy, że wszyscy, którzy potwierdzili termin kwietniowy są zainteresowani terminem grudniowym. Prosimy o informację w przypadku gdy termin grudniowy komuś nie odpowiada.
+Na przełomie września i października chcielibyśmy zamknąć listę. Będziemy wtedy telefonować do wszystkich zaproszonych aby jeszcze raz potwierdzić termin wesela i obecność.
 
-**2. Kopałem studnie w Sudanie/pracowałem w weekendy/polowałem na smoki/wstaw cokolwiek i nie mogłem chodzić na zajęcia. Mogę zaliczyć?**
+**2. Odmówiłem/am zaproszenie na kwiecień, czy mogę się pojawić w grudniu?**
 
-Nie.
+Oczywiście, zapraszamy :). Prosimy jedynie o wyrażenie takiej chęci poprzez kontakt telefoniczny.
 
-**3. Kim Pan jest?**
+**3. Jak wygląda kwestia noclegów?**
 
-- [Wizytówka](https://zylowski.net/)
-- [CV](https://github.com/mzylowski/resume/releases/tag/latest)
+Oferta domu weselnego w żaden sposób się nie zmieniła - podobnie jak kwestie rozpoczęcia imprezy, śniadania poprawinowego, również kwestia noclegów pozostaje bez zmian. Nadal mamy zarezerwowane wszystkie 50 miejsc noclegowych w obiekcie.
+Kosakowo jako miejscowość obsługująca Open'er Festival ma dobrze rozwiniętą bazę noclegową. Jeśli będzie konieczność zarezerwowania większej ilości noclegów to po drugiej stronie ulicy od domu weselnego znajdują się dodatkowe pokoje.
 
-**4. Jaki jest mail prowadzącego?**
+W samej Restauracji Kaszubskiej większość noclegów to pokoje kilkuosobowe (4 - 6). Planujemy więc kwaterować gości większymi grupami w oparciu o rodzinę czy wspólne paczki znajomych. Na każdy pokój będą wydawane maksymalnie dwa klucze, więc ważne jest by grupy się znały.
+Ze wszystkimi osobami, które zadeklarowały chęć noclegu będziemy się kontaktować przed weselem.
 
-`mzylowski@wsb.gda.pl`
+**4. Dlaczego termin grudniowy?**
 
-**5. Nie otrzymałem odpowiedzi na mojego maila, co robić, jak żyć?**
+Ponieważ jest on poza sezonem weselnym. Sala oraz wybrani wcześniej fotograf i DJ mają termin wolny, co znacząco upraszcza i tak skomplikowany proces zmiany terminu.
 
-Staram się w miarę regularnie i sprawnie odpisywać na maile. Jeśli nie przyszła do Ciebie zwrotka, że mail nie dotarł to najprawdopodobniej otrzymasz na niego odpowiedź. Powiedzmy, że deadline to 7 dni. Czasem zostawiam sobie maile jako nieprzeczytane, bo odpowiedź jest nie trywialna i muszę się nad nią zastanowić w wolnej chwili, na przykład stojąc w korku na obwodnicy.
+**5. Czy chodziło również o to, że w grudniu spadnie śnieg?**
 
-Oczywiście mogę też nie odpisać na maila bez podania przyczyny. Jestem przecież prowadzącym :)
-
-**6. Czy jest Pan etatowym pracownikiem WSB?**
-
-Nie. Pracuję zawodowo w innym miejscu, a na uczelni można mnie złapać tylko gdy mam w planie jakieś zajęcia.
-
-**7. Zadałem/am Panu pytanie i znam już na nie odpowiedź. W jaki sposób mogę je dodać do tej listy?**
-
-Należy przysłać Pull Request na githubie do repozytorium z kodem tej strony: [o tutaj](https://github.com/mzylowski/wsb-pages).
+Zdecydowanie. Z całą pewnością w noc 12/13.12.2020 spadnie śnieg :)

@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: mzylowski wsb
+title: Ślub Anny i Michała
 
 # Short description of your site
-description: Kilka informacji o przedmiotach prowadzonych na WSB
+description: Komunikaty związane ze ślubem Anny i Michała
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,17 +20,13 @@ description: Kilka informacji o przedmiotach prowadzonych na WSB
 
 # List of links in the navigation bar
 navbar-links:
-  Główna: "https://wsb.zylowski.net"
-  #Przedmioty:
-  #  - SKBiW: "skbiw"
-  #  - Język Python: "jezykPython"
-  #  - TAwŚZ: "tawsz"
-  FAQ: "faq"
-  Co to jest laboratorium: "laborki"
+  Główna: "https://slub.zylowski.net"
+  Często zadawne pytania: "faq"
+  Zaproszenie: "invite"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/koty_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -70,12 +66,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "mzylowski@wsb.gda.pl"
-#  facebook: michal.zylowski
-  github: mzylowski
+  email: "michal@zylowski.net"
+  facebook: michal.zylowski
+#  github: mzylowski
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: michał-żyłowski-6ba824110
+#  linkedin: michał-żyłowski-6ba824110
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -95,7 +91,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "wsb.zylowski.net"
+url-pretty: "slub.zylowski.net"
 
 # --- Web Statistics Section --- #
 
