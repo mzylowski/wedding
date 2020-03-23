@@ -5,8 +5,8 @@ title: Często zadawane pytania
 
 **1. Czy trzeba ponownie potwierdzać zaproszenie?**
 
-Zakładamy, że wszyscy, którzy potwierdzili termin kwietniowy są zainteresowani terminem grudniowym. Prosimy o informację w przypadku gdy termin grudniowy komuś nie odpowiada.
-Na przełomie września i października chcielibyśmy zamknąć listę. Będziemy wtedy telefonować do wszystkich zaproszonych aby jeszcze raz potwierdzić termin wesela i obecność.
+Zakładamy, że wszyscy, którzy potwierdzili termin kwietniowy są zainteresowani terminem grudniowym. Prosimy o informację w przypadku, gdy termin grudniowy komuś nie odpowiada.
+Na przełomie września i października chcielibyśmy zamknąć listę. Będziemy wtedy telefonować do wszystkich zaproszonych, aby jeszcze raz potwierdzić termin wesela i obecność.
 
 **2. Odmówiłem/am zaproszenie na kwiecień, czy mogę się pojawić w grudniu?**
 
@@ -22,7 +22,7 @@ Ze wszystkimi osobami, które zadeklarowały chęć noclegu będziemy się konta
 
 **4. Dlaczego termin grudniowy?**
 
-Ponieważ jest on poza sezonem weselnym. Sala oraz wybrani wcześniej fotograf i DJ mają termin wolny, co znacząco upraszcza i tak skomplikowany proces zmiany terminu.
+Ponieważ jest on poza sezonem weselnym. Sala oraz wybrani wcześniej fotograf i DJ mają ten termin wolny, co znacząco upraszcza i tak skomplikowany proces zmiany terminu.
 
 **5. Czy chodziło również o to, że w grudniu spadnie śnieg?**
 
