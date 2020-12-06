@@ -2,28 +2,29 @@
 layout: page
 title: Często zadawane pytania
 ---
+Informacje dotyczą wesela w lipcu.
 
-**1. Czy trzeba ponownie potwierdzać zaproszenie?**
+**1. Na ile osób planowany jest ślub i wesele w lipcu?**
 
-Zakładamy, że wszyscy, którzy potwierdzili termin kwietniowy są zainteresowani terminem grudniowym. Prosimy o informację w przypadku, gdy termin grudniowy komuś nie odpowiada.
-Na przełomie września i października chcielibyśmy zamknąć listę. Będziemy wtedy telefonować do wszystkich zaproszonych, aby jeszcze raz potwierdzić termin wesela i obecność.
+Na 50 osób. Będzie to liczba, którą uważamy za bezpieczną ze względu na obostrzenia.
 
-**2. Odmówiłem/am zaproszenie na kwiecień, czy mogę się pojawić w grudniu?**
+**2. Kto jest zaproszony?**
 
-Oczywiście, zapraszamy :). Prosimy jedynie o wyrażenie takiej chęci poprzez kontakt telefoniczny.
+Większość osób, która wcześniej otrzymała zaproszenia. Drogą elektroniczną (głównie SMS) wysyłaliśmy ponowne informacje o zaproszeniu.
 
 **3. Jak wygląda kwestia noclegów?**
 
-Oferta domu weselnego w żaden sposób się nie zmieniła - podobnie jak kwestie rozpoczęcia imprezy, śniadania poprawinowego, również kwestia noclegów pozostaje bez zmian. Nadal mamy zarezerwowane wszystkie 50 miejsc noclegowych w obiekcie.
-Kosakowo jako miejscowość obsługująca Open'er Festival ma dobrze rozwiniętą bazę noclegową. Jeśli będzie konieczność zarezerwowania większej ilości noclegów to po drugiej stronie ulicy od domu weselnego znajdują się dodatkowe pokoje.
+Zaoferujemy nocleg wszystkim chętnym. Będziemy się kontaktować w tej sprawie.
 
-W samej Restauracji Kaszubskiej większość noclegów to pokoje kilkuosobowe (4 - 6). Planujemy więc kwaterować gości większymi grupami w oparciu o rodzinę czy wspólne paczki znajomych. Na każdy pokój będą wydawane maksymalnie dwa klucze, więc ważne jest by grupy się znały.
-Ze wszystkimi osobami, które zadeklarowały chęć noclegu będziemy się kontaktować przed weselem.
+**4. Dlaczego termin lipcowy?**
 
-**4. Dlaczego termin grudniowy?**
+Mamy nadzieję, że uda się zrealizować niewielkie wesele w szczycie sezonu, nawet jeśli obostrzenia zostaną utrzymane. Liczmy, że zakaz organizowania wesel zostanie zniesiony.
 
-Ponieważ jest on poza sezonem weselnym. Sala oraz wybrani wcześniej fotograf i DJ mają ten termin wolny, co znacząco upraszcza i tak skomplikowany proces zmiany terminu.
+**5. Potwierdzenie obecności**
 
-**5. Czy chodziło również o to, że w grudniu spadnie śnieg?**
+Najpóźniej do połowy czerwca. Prosimy o możliwie wcześniejsze potwierdzanie/odrzucanie zaproszenia.
+Z osobami, które się z nie skontaktowały, będziemy się kontaktować w połowie czerwca.
 
-Zdecydowanie. Z całą pewnością w noc 12/13.12.2020 spadnie śnieg :)
+**6. Gdzie odbędzie się wesele?**
+
+Informacja została podana innym środkiem komunikacji. Ślub i wesele odbędzie się w innym miejscu niż planowano w kwietniu/grudniu.
